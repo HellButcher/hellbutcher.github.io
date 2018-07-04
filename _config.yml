@@ -1,4 +1,7 @@
 theme: jekyll-theme-minimal
 title: HellButcher
+description: Christoph H.
+logo: "https://avatars.githubusercontent.com/HellButcher?s=540"
 plugins:
 - jekyll-feed
+- jekyll-avatar
